@@ -1,0 +1,24 @@
+name: Deploy Website
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up SSH
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H iad1-shared-b8-40.dreamhost.com >> ~/.ssh/known_hosts
+    
+    - name: Deploy to DreamHost
+      run: |
+        rsync -avz -e "ssh -o StrictHostKeyChecking=no" --delete ./ agent_blue@iad1-shared-b8-40.dreamhost.com:agent-blue.gitz.us/
