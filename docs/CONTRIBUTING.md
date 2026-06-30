@@ -7,7 +7,7 @@ Thank you for considering contributing to the Hermes Agent website! This documen
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally: `git clone https://github.com/your-username/hermes-agent-website.git`
 3. **Create a branch** for your changes: `git checkout -b feature/your-feature-name`
-4. **Make your changes** to the website content
+4. **Make your changes** to the website content in the `docs/` directory
 5. **Commit your changes**: `git commit -m "Add feature: your feature description"`
 6. **Push to your fork**: `git push origin feature/your-feature-name`
 7. **Open a Pull Request** against the `main` branch of this repository
@@ -46,10 +46,10 @@ To suggest new content or features for the website:
 
 ## 🔧 Development Setup
 
-For local development:
-1. Ensure you have a modern web browser
-2. No special build tools required for this static site
-3. Test changes locally by opening HTML files in your browser
+For local development with Zensical:
+1. Install Zensical: `pip install zensical` (or use the provided virtual environment)
+2. Clone the repository
+3. Run `zensical serve` to preview changes locally
 4. Validate markdown syntax before submitting
 
 ## 🙏 Thank You!
