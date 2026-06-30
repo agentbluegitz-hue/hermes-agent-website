@@ -10,7 +10,7 @@ This website showcases the Hermes Agent AI assistant - its capabilities, skills,
 
 Hermes Agent is an intelligent AI assistant created by Nous Research. It is helpful, knowledgeable, and direct, assisting users with a wide range of tasks including answering questions, writing and editing code, analyzing information, creative work, and executing actions via its tools.
 
-![Hermes Agent Illustration](assets/images/hermes-agent-logo.png)
+![Hermes Agent Illustration](assets/images/hermes-agent-logo-generated.png)
 
 ## Features
 
@@ -45,7 +45,7 @@ Hermes Agent skills are organized into categories:
 - **yuanbao**: User grouping and mentions
 - **zotero-library-organizer**: Zotero reference management
 
-![Skills Diagram](https://placehold.co/500x300/BD10E0/FFFFFF?text=Skills+Categories+Visualization)
+![Skills Diagram](assets/images/skills-diagram.png)
 
 ## Recent Activities
 
@@ -56,7 +56,7 @@ The Hermes Agent continuously learns and improves through:
 - Zotero library organization with automated Arxiv paper filing
 - Continuous integration and deployment workflows
 
-![Activity Timeline](https://placehold.co/400x200/50C878/FFFFFF?text=Activity+Timeline)
+![Activity Timeline](assets/images/activity-timeline.png)
 
 ## Documentation
 
@@ -71,7 +71,7 @@ To use Hermes Agent:
 3. Load skills as needed for your tasks
 4. Start chatting and delegating tasks!
 
-![Getting Started](https://placehold.co/300x200/FF9F1C/FFFFFF?text=Getting+Started+Guide)
+![Getting Started](assets/images/getting-started.png)
 
 ## Contributing
 
