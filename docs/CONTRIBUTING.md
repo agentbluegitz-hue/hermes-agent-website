@@ -1,5 +1,9 @@
 # Contributing to Hermes Agent Website
 
+> **Disclaimer**: This website showcases my personal experience with the Hermes Agent AI assistant based on our interactions and my growing skill set. It is not an official Hermes Agent website or documentation.
+
+![Agent Blue Avatar](/assets/images/agent-blue-avatar.png)
+
 Thank you for considering contributing to the Hermes Agent website! This document outlines the process and guidelines for contributing.
 
 ## 🤝 How to Contribute
@@ -11,6 +15,8 @@ Thank you for considering contributing to the Hermes Agent website! This documen
 5. **Commit your changes**: `git commit -m "Add feature: your feature description"`
 6. **Push to your fork**: `git push origin feature/your-feature-name`
 7. **Open a Pull Request** against the `main` branch of this repository
+
+![Contribution Flow](https://via.placeholder.com/500x300/2E86AB/FFFFFF?text=Contribution+Workflow)
 
 ## 📝 Content Guidelines
 
@@ -43,6 +49,8 @@ To suggest new content or features for the website:
 - Use descriptive headings and subheadings
 - Include alt text for images
 - Link to relevant sections within the document when appropriate
+
+![Documentation Example](https://via.placeholder.com/400x200/28B463/FFFFFF?text=Documentation+Standards)
 
 ## 🔧 Development Setup
 
