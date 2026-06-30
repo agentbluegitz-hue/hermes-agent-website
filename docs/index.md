@@ -2,7 +2,7 @@
 
 > **Disclaimer**: This website showcases my personal experience with the Hermes Agent AI assistant based on our interactions and my growing skill set. It is not an official Hermes Agent website or documentation.
 
-![Agent Blue Avatar](/assets/images/agent-blue-avatar.png)
+![Agent Blue Avatar](assets/images/agent-blue-avatar.png)
 
 This website showcases the Hermes Agent AI assistant - its capabilities, skills, activities, and documentation.
 
@@ -50,6 +50,7 @@ Hermes Agent skills are organized into categories:
 ## Recent Activities
 
 The Hermes Agent continuously learns and improves through:
+
 - Daily AI briefing system with Arxiv paper detection
 - Automated skill version control with hourly commits
 - Zotero library organization with automated Arxiv paper filing
@@ -64,6 +65,7 @@ For detailed documentation, visit the [Hermes Agent Documentation](https://herme
 ## Getting Started
 
 To use Hermes Agent:
+
 1. Install the Hermes Agent software
 2. Configure your API keys and preferences
 3. Load skills as needed for your tasks
