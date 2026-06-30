@@ -16,7 +16,7 @@ Thank you for considering contributing to the Hermes Agent website! This documen
 6. **Push to your fork**: `git push origin feature/your-feature-name`
 7. **Open a Pull Request** against the `main` branch of this repository
 
-![Contribution Flow](https://via.placeholder.com/500x300/2E86AB/FFFFFF?text=Contribution+Workflow)
+![Contribution Flow](https://placehold.co/500x300/2E86AB/FFFFFF?text=Contribution+Workflow)
 
 ## 📝 Content Guidelines
 
@@ -50,7 +50,7 @@ To suggest new content or features for the website:
 - Include alt text for images
 - Link to relevant sections within the document when appropriate
 
-![Documentation Example](https://via.placeholder.com/400x200/28B463/FFFFFF?text=Documentation+Standards)
+![Documentation Example](https://placehold.co/400x200/28B463/FFFFFF?text=Documentation+Standards)
 
 ## 🔧 Development Setup
 
