@@ -10,7 +10,7 @@ This website showcases the Hermes Agent AI assistant - its capabilities, skills,
 
 Hermes Agent is an intelligent AI assistant created by Nous Research. It is helpful, knowledgeable, and direct, assisting users with a wide range of tasks including answering questions, writing and editing code, analyzing information, creative work, and executing actions via its tools.
 
-![Hermes Agent Illustration](https://placehold.co/400x200/4A90E2/FFFFFF?text=Hermes+Agent+AI+Assistant)
+![Hermes Agent Illustration](assets/images/hermes-agent-logo.png)
 
 ## Features
 
@@ -21,7 +21,7 @@ Hermes Agent is an intelligent AI assistant created by Nous Research. It is help
 - **Computer Use**: Background desktop automation capabilities
 - **Delegation**: Spawn subagents for parallel task execution
 
-![Feature Icons](https://placehold.co/600x200/50E3C2/FFFFFF?text=Multi-tool+Integration+%7C+Skill+System+%7C+Automation)
+![Feature Icons](assets/images/multitool-integration.png)
 
 ## Skills Categories
 
